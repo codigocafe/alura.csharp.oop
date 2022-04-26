@@ -1,0 +1,15 @@
+/home/codigocafe/www/project/alura.csharp.oop/Banco/bin/Debug/net6.0/Banco
+/home/codigocafe/www/project/alura.csharp.oop/Banco/bin/Debug/net6.0/Banco.deps.json
+/home/codigocafe/www/project/alura.csharp.oop/Banco/bin/Debug/net6.0/Banco.runtimeconfig.json
+/home/codigocafe/www/project/alura.csharp.oop/Banco/bin/Debug/net6.0/Banco.dll
+/home/codigocafe/www/project/alura.csharp.oop/Banco/bin/Debug/net6.0/Banco.pdb
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.csproj.AssemblyReference.cache
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.AssemblyInfoInputs.cache
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.AssemblyInfo.cs
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.csproj.CoreCompileInputs.cache
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.dll
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/refint/Banco.dll
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.pdb
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/Banco.genruntimeconfig.cache
+/home/codigocafe/www/project/alura.csharp.oop/Banco/obj/Debug/net6.0/ref/Banco.dll
